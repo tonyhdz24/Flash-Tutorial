@@ -6,10 +6,11 @@ The basic blog app built in the Flask `tutorial`_.
 .. _tutorial: https://flask.palletsprojects.com/tutorial/
 Install
 -------
+Run the following commands ::
 
     # clone the repository
     $ git clone https://github.com/tonyhdz24/Flask-Tutorial
-    $ cd Flash-Tutorial
+    $ cd Flask-Tutorial
 
 
 Create a virtualenv and activate it::
